@@ -1,8 +1,9 @@
 ---
 title: 管理其实是做人
 date: 2017-04-13 13:55:29 
-categories: manager 
+categories: sunqb 
 toc: true
 ---
-- 人的管理-项目资源
-- 备选方案管理-项目风险
+- 项目资源管理即人力管理
+- 项目风险管理主要是备选方案
+- 项目工期管理
