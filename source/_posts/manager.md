@@ -1,7 +1,7 @@
 ---
 title: 管理其实是做人
 date: 2017-04-13 13:55:29 
-categories: sunqb 
+categories: 项目管理 
 toc: true
 ---
 - 项目资源管理即人力管理

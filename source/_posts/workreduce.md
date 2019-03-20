@@ -1,7 +1,7 @@
 ---
-title: 互联网企业中每个职位应该做到哪一步
+title: 互联网企业职位职责
 date: 2019-03-20 13:55:29 
-categories: sunqb 
+categories: 职场
 toc: true
 ---
 
