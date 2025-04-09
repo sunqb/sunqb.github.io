@@ -1,17 +1,16 @@
 ---
-title: 互联网企业职位职责
+title: Responsibilities of company positions
 date: 2019-03-20 13:55:29 
-categories: 职场
+categories: work
 toc: true
 ---
 
-### 公司管理层
-明确产品的方向，增加员工的信心，建立合理的制度。核心在于，非常明确产品的方向是什么，给产品经理明确的指示。不要说空话，说套话。因为，如果说空话，说套话，那么直接问题就是产品经理设计的产品，没多久就变一次，上线没有人使用等等。
+### Company Management Team
+Clarify the product direction, boost employee confidence, and establish reasonable systems. The core lies in clearly defining what the product direction is and giving clear instructions to the product manager. Don’t just speak in empty words or clichés. Because if you do that, the direct issue will be that the products designed by the product manager will change frequently, no one will use them after release, etc.
 
-### 项目经理
-* 在项目型公司，项目经理的工作可能更多的是和客户撕逼，这样就对项目经理的业务知识有一定的要求，例如金融公司或者特定行业的政府项目。同时又对资源管理有一定要求，资源管理主要是人的管理即人力的控制和项目风险的控制。这两者都决定了项目成败。人力的管理要做到哪一步一定要明确，每个人每天或者每周需要完成哪些东西要在计划中体现，同时每天要更新每个人的进度。风险管理主要是备选方案，任何不确定的东西都是风险，因为不确定所以备选方案一定要有，举个很简单的例子，线上数据迁移，备选方案就是数据库备份。
-* 在产品型公司，项目经理的核心工作任然是资源管理，这里不再累述。但还包括各个迭代版本关系的处理，主要是优先级关系。产品需求的预先评估即代价分析。
+### Project Manager
+* In project-oriented companies, a project manager’s work might involve more negotiation with clients. This requires a certain level of expertise in areas such as financial services or specific industry government projects. It also demands a focus on resource management—you’re primarily managing people (human resources) and controlling risks within the project. Both of these factors determine whether the project succeeds or fails. Human resource management must be clearly defined: what each person needs to accomplish every day or week should be reflected in the plan, and progress for everyone should be updated daily. Risk management involves having contingency plans. Anything uncertain carries risk, and because of that uncertainty, contingency plans are essential. For example, online data migration requires a contingency plan such as database backup.
+* In product-oriented companies, a project manager’s core work remains resource management (not elaborated here). It also includes managing the relationships between iterative versions, particularly focusing on priority levels. This involves pre-assessing product requirements through cost analysis.
 
-### 产品经理
-设计产品，给出需求文档和交互图，交互图是产品思想最可视化的体现，一个产品经理的需求好不好很大程度上取决于交互图的完整性。需求文档的确定性，需求文档逻辑的完整性这里没法要求，因为无论什么角色都无法做到全面。但是，任何一个用例一定要明确，不要用模棱两可的术语，尽管那种术语会给自己留有余地，任何一个专业术语都需要先定义，然后才是使用逻辑串联起来完成自己的用例需求。
-
+### Product Manager
+Design products, produce requirement documents, and create interaction diagrams. Interaction diagrams are the most visual representation of product ideas—how good a product manager’s requirements are largely depends on the completeness of these interaction diagrams. The definitiveness and logical integrity of requirement documents can’t realistically be expected to cover everything because no role can achieve that level of comprehensiveness. However, every use case must be clearly defined—don’t use ambiguous terminology even though it might give you room for flexibility. Any professional term should first be defined before being logically linked together to fulfill specific requirements.

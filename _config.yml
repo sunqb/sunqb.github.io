@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 孙青彪
-subtitle: 孙青彪个人博客
-description: 分享技术问题，讨论技术架构
+title: Thought Garden
+subtitle: Thought Garden is a place to cultivate your ideas and thoughts.
+description: It's not just about changing yourself; it's about changing the world.
 author: sunqb
-language: zh_CN
+language: en
 timezone:
 
 # URL

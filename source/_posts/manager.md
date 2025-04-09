@@ -1,17 +1,15 @@
 ---
-title: 我理解的管理
+title: What is management?
 date: 2017-04-13 13:55:29 
-categories: 职场 
+categories: work
 toc: true
 ---
-- 管理的定义是什么？
-```
-“管理”可被包括领导和管理所有组织；透过组织、调度和运用各种人力、财务、原料、实体、知识、资产或其它无形资源的活动（包含规划、决策、组织、领导和控制），以有效率且有效用的方式达成组织目标
-```
-- 这么定义的原因是什么？
-```
-该定义属于描述性定义，其主要定义思路是以目标为导向去定义过程。
-```
-- 比较好的管理的途径是什么？
-    - 制定一个好的规则、制度或者流程，在我个人理解仅仅是最一种管理的保障，但这与一个好的管理相差甚远
-    - 激发人员的最原始动力，让人员主动热情的去按照规章制度做事情，规章制度只能让人员按照这个去做，但不一定是情愿地或者主动热情的去做一件事情。
+- What is the definition of management?
+"Management can be broadly defined as leading and managing all organizations through activities that involve organizing, coordinating, and utilizing various human, financial, material, physical, knowledge-based, tangible assets, or other intangible resources (including planning, decision-making, organization, leadership, and control) to achieve organizational goals in an efficient and effective manner."
+
+- Why is this definition used?
+This definition falls under a descriptive definition. Its primary approach is to define the process with a goal-oriented perspective.
+
+- What are some good approaches to management?
+- Creating good rules, systems, or processes, as I personally understand them, is just one way of providing security in management. However, this is far from what constitutes good management.
+- Motivating individuals by tapping into their fundamental drives, encouraging staff to actively and enthusiastically follow regulations. While regulations ensure compliance, they may not necessarily inspire willing and proactive participation in tasks.
