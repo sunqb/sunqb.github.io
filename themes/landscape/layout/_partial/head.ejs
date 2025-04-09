@@ -33,4 +33,8 @@
   <% } %>
   <%- css('css/style') %>
   <%- partial('google-analytics') %>
+  <% if (theme.google_adsense.enabled && theme.google_adsense.google_ad_client_id){ %>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9458606880521461"
+     crossorigin="anonymous"></script>
+ <% } %>
 </head>
