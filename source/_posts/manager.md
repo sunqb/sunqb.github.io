@@ -1,7 +1,7 @@
 ---
 title: 我理解的管理
 date: 2017-04-13 13:55:29 
-categories: manager 
+categories: 职场 
 toc: true
 ---
 - 管理的定义是什么？
